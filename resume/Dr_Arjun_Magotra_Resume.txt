@@ -1,0 +1,25 @@
+Dr. Arjun Magotra
+AI Researcher | Machine Learning Engineer
+
+CONTACT
+Email: arjun.magotra.india@gmail.com
+LinkedIn: linkedin.com/in/dr-arjun-magotra
+
+EDUCATION
+Ph.D. in Artificial Intelligence
+Indian Institute of Technology, Delhi
+Specialization: Machine Learning and Data Science
+Year of Completion: 2020
+
+M.Tech in Computer Science
+Indian Institute of Technology, Bombay
+Specialization: Advanced Computing
+Year of Completion: 2015
+
+RESEARCH INTERESTS
+- Explainable AI Systems
+- Natural Language Processing
+- Machine Learning in Environmental Science
+
+PROFESSIONAL SUMMARY
+Innovative AI researcher with extensive experience in developing interpretable machine learning models, advanced NLP techniques, and computational solutions for complex scientific challenges.
